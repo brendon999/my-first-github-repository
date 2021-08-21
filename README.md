@@ -2,4 +2,4 @@
 Here is my first GitHub repository. Let's get started with GitHub.
 
 
-Readme.md file was just modified manually. This file was modified locally.
+This line was modified manually during conflicts resolutions.
